@@ -1,0 +1,66 @@
+Estandar
+100;Torre A;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Estandar;true;true;1
+101;Torre A;3;202;100;true;false;true;false;false;false;true;false;false;true;true;false;false;Estandar;true;false;0
+102;Torre A;3;202;100;true;false;true;false;false;false;true;false;false;true;true;false;false;Estandar;true;false;0
+103;Torre A;3;202;100;true;false;true;false;false;false;true;false;false;true;true;false;false;Estandar;true;false;0
+104;Torre A;3;202;100;true;false;true;false;false;false;true;false;false;true;true;false;false;Estandar;true;false;0
+105;Torre A;3;202;100;true;false;true;false;false;false;true;false;false;true;true;false;false;Estandar;true;false;0
+106;Torre A;3;202;100;true;false;true;false;false;false;true;false;false;true;true;false;false;Estandar;true;false;0
+107;Torre A;3;202;100;true;false;true;false;false;false;true;false;false;true;true;false;false;Estandar;true;false;0
+108;Torre A;3;202;100;true;false;true;false;false;false;true;false;false;true;true;false;false;Estandar;true;false;0
+109;Torre A;3;202;100;true;false;true;false;false;false;true;false;false;true;true;false;false;Estandar;true;false;0
+110;Torre A;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Estandar;true;true;1
+111;Torre A;3;202;100;true;false;true;false;false;false;true;false;false;true;true;false;false;Estandar;true;false;0
+112;Torre A;3;202;100;true;false;true;false;false;false;true;false;false;true;true;false;false;Estandar;true;false;0
+113;Torre A;3;202;100;true;false;true;false;false;false;true;false;false;true;true;false;false;Estandar;true;false;0
+114;Torre A;3;202;100;true;false;true;false;false;false;true;false;false;true;true;false;false;Estandar;true;false;0
+115;Torre A;3;202;100;true;false;true;false;false;false;true;false;false;true;true;false;false;Estandar;true;false;0
+116;Torre A;3;202;100;true;false;true;false;false;false;true;false;false;true;true;false;false;Estandar;true;false;0
+117;Torre A;3;202;100;true;false;true;false;false;false;true;false;false;true;true;false;false;Estandar;true;false;0
+118;Torre A;3;202;100;true;false;true;false;false;false;true;false;false;true;true;false;false;Estandar;true;false;0
+119;Torre A;3;202;100;true;false;true;false;false;false;true;false;false;true;true;false;false;Estandar;true;false;0
+Suite
+100;Torre B;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite;true;true;1
+100;Torre B;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite;true;true;1
+101;Torre B;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite;true;true;1
+102;Torre B;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite;true;true;1
+103;Torre B;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite;true;true;1
+104;Torre B;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite;true;true;1
+105;Torre B;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite;true;true;1
+106;Torre B;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite;true;true;1
+107;Torre B;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite;true;true;1
+108;Torre B;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite;true;true;1
+109;Torre B;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite;true;true;1
+110;Torre B;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite;true;true;1
+110;Torre B;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite;true;true;1
+111;Torre B;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite;true;true;1
+112;Torre B;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite;true;true;1
+113;Torre B;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite;true;true;1
+114;Torre B;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite;true;true;1
+115;Torre B;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite;true;true;1
+116;Torre B;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite;true;true;1
+117;Torre B;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite;true;true;1
+118;Torre B;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite;true;true;1
+119;Torre B;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite;true;true;1
+Suite doble
+100;Torre C;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite doble;true;true;1
+101;Torre C;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite doble;true;true;1
+102;Torre C;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite doble;true;true;1
+103;Torre C;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite doble;true;true;1
+104;Torre C;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite doble;true;true;1
+105;Torre C;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite doble;true;true;1
+106;Torre C;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite doble;true;true;1
+107;Torre C;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite doble;true;true;1
+108;Torre C;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite doble;true;true;1
+109;Torre C;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite doble;true;true;1
+110;Torre C;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite doble;true;true;1
+111;Torre C;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite doble;true;true;1
+112;Torre C;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite doble;true;true;1
+113;Torre C;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite doble;true;true;1
+114;Torre C;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite doble;true;true;1
+115;Torre C;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite doble;true;true;1
+116;Torre C;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite doble;true;true;1
+117;Torre C;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite doble;true;true;1
+118;Torre C;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite doble;true;true;1
+119;Torre C;3;200;200;true;true;true;true;true;true;true;true;true;true;true;true;true;Suite doble;true;true;1
+120;Torre C;2;340;150;false;false;true;false;true;false;false;true;false;true;true;false;true;Suite doble;true;false;0

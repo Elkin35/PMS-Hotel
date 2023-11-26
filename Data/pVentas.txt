@@ -1,0 +1,6 @@
+Coca-Cola;101
+Salmón;25
+Hamburguesa vegana;132
+Gnocchi de papa;246
+Curry de pollo;123
+Cerveza de trigo;170

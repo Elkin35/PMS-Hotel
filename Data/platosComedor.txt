@@ -1,0 +1,20 @@
+Milanesa napolitana, 13000, 12:00, 22:00, 16
+Pollo al curry, 15000, 12:00, 21:00, 16
+Pizza Margarita, 12000, 11:00, 21:00, 16
+Sándwich de salmón, 11000, 12:00, 20:00, 16
+Ensalada de quinoa, 10000, 11:00, 19:00, 16
+Filete de ternera, 18000, 12:00, 22:00, 16
+Pad Thai con gambas, 14000, 12:00, 22:00, 16
+Sopa ramen de pollo, 9000, 11:00, 19:00, 16
+Falafel, 11000, 12:00, 21:00, 16
+Polenta con salsa de hongos, 10000, 11:00, 20:00, 16
+Roll de sushi California, 12000, 12:00, 21:00, 16
+Lasaña de berenjena, 13000, 12:00, 22:00, 16
+Tostadas de ceviche, 15000, 12:00, 22:00, 16
+Costillas de cerdo, 17000, 12:00, 22:00, 16
+Fajitas de pollo, 14000, 12:00, 21:00, 16
+Risotto de hongos, 15000, 12:00, 22:00, 16
+Burrito de carne asada, 13000, 12:00, 21:00, 16
+Pollo a la parmesana, 16000, 12:00, 22:00, 16
+Gnocchi de papa, 12000, 11:00, 21:00, 16
+Tarta de manzana, 8000, 11:00, 20:00, 16

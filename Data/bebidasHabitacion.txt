@@ -1,0 +1,8 @@
+Coca-Cola, 2500, 11:00, 22:00, 12
+Agua mineral con gas, 1500, 11:00, 22:00, 12
+Té helado, 3000, 11:00, 20:00, 12
+Café expreso, 2500, 11:00, 22:00, 12
+Cerveza IPA, 5000, 12:00, 22:00, 12
+Vino tinto Malbec, 17000, 12:00, 22:00, 12
+Margarita, 18000, 14:00, 22:00, 12
+Gin tonic, 19000, 16:00, 22:00, 12

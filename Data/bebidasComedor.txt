@@ -1,0 +1,8 @@
+Limonada de frutas, 3500, 11:00, 20:00, 12
+Jugo de naranja, 3000, 11:00, 19:00, 12
+Agua saborizada, 2000, 11:00, 21:00, 12
+Cerveza de trigo, 4500, 12:00, 22:00, 12
+Vino blanco, 7500, 12:00, 22:00, 12
+Cocktail Margarita, 9000, 14:00, 23:00, 12
+Café con leche, 2800, 11:00, 22:00, 12
+Té de jazmín, 3500, 11:00, 20:00, 12

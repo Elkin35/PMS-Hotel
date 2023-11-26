@@ -1,0 +1,20 @@
+Hamburguesa clásica, 10000, 11:00, 20:00, 16
+Ensalada César, 12000, 12:00, 21:00, 16
+Sopa de calabaza, 8000, 11:00, 19:00, 16
+Pasta Alfredo, 16000, 12:00, 22:00, 16
+Tacos de pescado, 14000, 11:30, 21:30, 16
+Pizza Margherita, 12000, 11:00, 20:00, 16
+Ensalada, 11000, 12:00, 20:00, 16
+Costillas, 20000, 12:30, 21:30, 16
+Bistec, 22000, 11:00, 22:00, 16
+Curry de pollo, 14, 12:00, 21:00, 16
+Bagel con salmón, 10000, 11:00, 20:00, 16
+Albóndigas, 16000, 12:00, 22:00, 16
+Ensalada de pollo, 13000, 11:30, 21:30, 16
+Lasaña vegetariana, 15000, 11:00, 20:00, 16
+Hamburguesa vegana, 30000, 12:00, 21:00, 16
+Sopa de tomate, 9000, 11:00, 19:00, 16
+Pollo con arroz, 17000, 12:00, 22:00, 16
+Salmón con aderezo, 15000, 11:00, 21:00, 16
+Salmón,1234.0,01:00,13:00,246
+Pechuga de pollo,21800.0,12:00,23:00,4360

@@ -1,0 +1,12 @@
+administrador;admin1;abcd1234
+mesero;mesero1;dsa321;m-1
+mesero;mesero2;messi123;m-2
+recepcionista;recep;recep23;rcp-1
+guia;Guia12;ggg12;gui-12
+mesero;meserop;contrasena123;mes-5
+guia;guia12;12345;g-1
+spa;spa1;spaaaa;spa-1
+cliente;oscarCarr;feid1;cl
+cliente;user1;aaa;cl
+cliente;user2;abc;cl
+cliente;carol;carol;cl
